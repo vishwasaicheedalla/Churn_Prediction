@@ -78,5 +78,5 @@ Use the churn prediction data to create meaningful visualizations in Power BI, r
 
 
 ## SUMMARY AND PREDICTION DASHBOARDS PREVIEWS:
-![Churn Prediction](https://github.com/user-attachments/assets/be6ebb5e-7934-4217-9c13-12032f5405e3)
 ![Summary](https://github.com/user-attachments/assets/a5b7cfd4-a427-4a75-b0c6-858f9098c9e7)
+![Churn Prediction](https://github.com/user-attachments/assets/be6ebb5e-7934-4217-9c13-12032f5405e3)
