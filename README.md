@@ -5,15 +5,11 @@
 
 Download and install SQL Server Management Studio (SSMS) to manage and query SQL Server databases.
 
-```bash
 https://learn.microsoft.com/en-us/ssms/install/install
-```
 
 Download and install SQL Server (SQL Express) to Enable database operations. 
 
-```bash
 https://www.microsoft.com/en-in/sql-server/sql-server-downloads
-```
 
 Check if SQL Server is Running :
 
