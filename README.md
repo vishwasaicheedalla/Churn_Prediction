@@ -5,11 +5,15 @@
 
 Download and install SQL Server Management Studio (SSMS) to manage and query SQL Server databases.
 
+```bash
 https://learn.microsoft.com/en-us/ssms/install/install
+```
 
 Download and install SQL Server (SQL Express) to Enable database operations. 
 
+```bash
 https://www.microsoft.com/en-in/sql-server/sql-server-downloads
+```
 
 Check if SQL Server is Running :
 
@@ -47,17 +51,24 @@ Download Anaconda Prompt: [Anaconda](https://www.anaconda.com/download/success)
 
 Run these commands in Command Prompt to download and run Jupyter Notebook :
 
-`pip install jupyterlab`
-
-`jupyter lab`
-
-`pip install notebook`
-
-`jupyter notebook`
+```bash
+pip install jupyterlab
+```
+```bash
+jupyter lab
+```
+```bash
+pip install notebook
+```
+```bash
+jupyter notebook
+```
 
 Download Required Dependencies :
 
-`pip install pandas numpy matplotlib seaborn scikit-learn joblib`
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn joblib
+```
 
 Train the Random Forest Model :
 
