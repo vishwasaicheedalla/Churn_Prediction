@@ -1,5 +1,5 @@
 # Churn_Prediction
-## **Steps to Integrate SQL Server with Power BI for Churn Prediction Visualization:**
+## Steps to Integrate SQL Server with Power BI and get Prediction Data from Machine Learning Model for Churn Prediction Visualization:
 
 ### SSMS and SQL Server
 
